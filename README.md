@@ -35,4 +35,6 @@ https://www.gov.uk/government/publications/tuberculosis-in-england-2025-report
 This is a descriptive analysis of reported TB notifications, not all TB infections. Regional analysis covers 2024, while deprivation analysis uses area-level deprivation deciles. Findings describe patterns and associations; they do not establish causation.
 
 ## Visualisations
-Interactive Tableau Public dashboards are presented in the accompanying portfolio project.
+Interactive Tableau Public dashboards are presented through the link below:
+
+https://public.tableau.com/app/profile/benjamin.gokir/viz/TB_England_Epidemiology_Project/TuberculosisinEnglandTrendsinNotifications20152024
